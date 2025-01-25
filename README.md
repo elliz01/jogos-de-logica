@@ -20,7 +20,7 @@ Os jogos que estou criando abordam desafios lógicos simples, como adivinhação
 
 ## 🤝 Contribuições
 
-Este repositório é meu espaço de aprendizado, mas se você tiver sugestões de jogos ou melhorias, fique à vontade para abrir uma **issue** ou enviar um **pull request**. Estou sempre aberto a ideias para melhorar meu treinamento! 🚀
+Este repositório é meu espaço de aprendizado, mas se você tiver sugestões de jogos ou melhorias, fique à vontade para abrir uma **issue** ou enviar um **pull request**. Estou sempre aberta a ideias para melhorar meu treinamento! 🚀
 
 ## 📝 Licença
 
