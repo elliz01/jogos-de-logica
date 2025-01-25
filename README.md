@@ -1,4 +1,4 @@
-# 🎮 Jogos de Lógica - Treinamento Pessoal
+# 🎮 Jogos de Lógica
 
 Este repositório contém uma coleção de jogos interativos que estou criando para **treinar minha lógica de programação** de maneira divertida e prática. 🧠💻
 
