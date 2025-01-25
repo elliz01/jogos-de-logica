@@ -11,7 +11,7 @@ O objetivo deste repositório é documentar e compartilhar os jogos que estou de
 Os jogos que estou criando abordam desafios lógicos simples, como adivinhação de números, palavras e outros tipos de puzzles. Novos jogos serão adicionados conforme eu for praticando e aprendendo mais conceitos de programação. 🌱
 
 ### 🧩 Exemplos de jogos:
-- **[Jogo do Número Secreto](jogo-do-numero-secreto/index.html)**: Tente adivinhar o número secreto escolhido pelo sistema. 🔢
+- **[Jogo do Número Secreto](https://jogos-de-logica.vercel.app/)**: Tente adivinhar o número secreto escolhido pelo sistema. 🔢
 - **Jogo da Forca [Em breve]**: Adivinhe palavras antes de perder todas as tentativas. 🤔
 
 
